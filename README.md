@@ -1,10 +1,8 @@
-# Fabbi React Assignment
-
-| This assignment is aimed to help us assess your `React` skills.
+# Fabbi React Assignment 1
 
 <!-- toc -->
 
-- [Fabbi React Assignment](#fabbi-react-assignment)
+- [Fabbi React Assignment 1](#fabbi-react-assignment-1)
   - [Requirements](#requirements)
     - [Must](#must)
     - [Optional](#optional)
@@ -25,14 +23,15 @@
 ### Must
 
 - Use `React`
-- Use ES6 +
-- Write Unit Tests (any testing library, but preferred `jest`)
+- Use `ES6+`
+- Use `hooks`
 
 ### Optional
 
-- Use a type system (preferred `flow`)
+- Use with [Ant Design](https://ant.design/) or [MaterialUI](https://material-ui.com/)
+- Use a type system (preferred `typescript`)
+- Write Unit Tests (any testing library, but preferred `jest`)
 - Write Integration Tests
-- If needed use a CSS in JS library (preferred `emotion`)
 
 ## Setup
 
