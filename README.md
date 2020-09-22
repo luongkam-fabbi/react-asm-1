@@ -14,7 +14,7 @@
     - [Step 2](#step-2)
     - [Step 3](#step-3)
     - [Step 4](#step-4)
-    - [Notes](#notes)
+  - [Notes](#notes)
   - [Submission](#submission)
   - [FAQs](#faqs)
 
@@ -45,12 +45,9 @@ So feel free to use [create react app](https://github.com/facebookincubator/crea
 We want to make multiple steps form. This form is aimed to help user pre-order food from restaurants, the data for restaurants and food items and is provided in the [data](./data) folder.
 
 Wireframes for the form are provided in the [wire frames](./wireframes) folder.
-![step 1](./wireframes/Step%201.png "step 1")
-![step 2](./wireframes/Step%202.png "step 2")
-![step 3](./wireframes/Step%203.png "step 3")
-![step 4](./wireframes/Step%204.png "step 4")
 
-The wireframes are just guidelines, feel free to alter the styling.
+---
+![step 1](./wireframes/Step%201.png "step 1")
 
 ### Step 1
 
@@ -59,11 +56,17 @@ The wireframes are just guidelines, feel free to alter the styling.
 
 Both of these should be required fields.
 
+---
+![step 2](./wireframes/Step%202.png "step 2")
+
 ### Step 2
 
 - Users select appropriate restaurants that provide meals based on a selection in the first step.
 
 This is also a required field.
+
+---
+![step 3](./wireframes/Step%203.png "step 3")
 
 ### Step 3
 
@@ -75,12 +78,15 @@ This is also a required field.
 
 The total number of dishes (i.e Number of dishes \* respective serving) should be greater or equal to the number of people selected in the first step and a maximum of 10 is allowed.
 
+---
+![step 4](./wireframes/Step%204.png "step 4")
+
 ### Step 4
 
 On the final step, users should be able to review all their previous choices
 and click submit.
 
-### Notes
+## Notes
 
 - User can't proceed to the next step unless they have valid inputs on the current step.
 - if their inputs are not valid, show appropriate validation errors.
